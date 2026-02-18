@@ -1,11 +1,11 @@
 1. Go to https://github.com/ to start using **GitHub**
 2. Sign up and create an account
-3. Click the plus sign in the top right corner and select "New repository" to create a new **repository**
+3. Click the plus sign in the top right corner and select "New repository" to create a **repository**
 4. Click main and type in a name to create a **branch**
-5. Click the pencil button to edit the file, and click **commit** changes once done to save
-6. Click the **pull** requests tab in order to create a pull request
+5. Click the pencil button to edit the file, and click "**commit** changes" once done to save
+6. Click the "**pull** requests" tab in order to create a pull request
 7. Go to Explore GitHub to look at other people's repositories
-8. Go you people's or organization's profiles to follow them
+8. Go to people's or organization's profiles to follow them
 9. **Clone** a repository by clicking code, copying the URL, and pasting it into Git Bash
 10. Upload a project to GitHub by clicking on "add file" and "upload files"
 11. Download **GIT** with this link: https://git-scm.com/install/
